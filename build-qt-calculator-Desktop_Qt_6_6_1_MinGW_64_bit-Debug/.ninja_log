@@ -1,0 +1,9 @@
+# ninja log v5
+2	1090	7243748248719291	qt-calculator_autogen/timestamp	c4e5c28aef3d18fc
+2	1090	7243748248719291	qt-calculator_autogen/mocs_compilation.cpp	c4e5c28aef3d18fc
+2	1090	7243748248719291	C:/Users/XY/Desktop/C-coding/QT-projects/build-qt-calculator-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/qt-calculator_autogen/timestamp	c4e5c28aef3d18fc
+2	1090	7243748248719291	C:/Users/XY/Desktop/C-coding/QT-projects/build-qt-calculator-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/qt-calculator_autogen/mocs_compilation.cpp	c4e5c28aef3d18fc
+1092	5002	7243748288829271	CMakeFiles/qt-calculator.dir/qt-calculator_autogen/mocs_compilation.cpp.obj	348d04fe14e24ad4
+1097	5013	7243748288949295	CMakeFiles/qt-calculator.dir/main.cpp.obj	47d04ba834ff8665
+1101	5548	7243748294299268	CMakeFiles/qt-calculator.dir/mainwindow.cpp.obj	f21179d20dc75cf
+5549	5928	7243748298052266	qt-calculator.exe	777254495cb0352e

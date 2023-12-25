@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-39756cef6dc0087481ff.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "qt-notepad",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "qt-notepad::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt-notepad-Debug-ca84b64f108a3bc6d6a3.json",
+					"name" : "qt-notepad",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qt-notepad_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt-notepad_autogen-Debug-77374a36ef6cebfb0c8a.json",
+					"name" : "qt-notepad_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qt-notepad_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt-notepad_autogen_timestamp_deps-Debug-13c3f76e8173290ed7c5.json",
+					"name" : "qt-notepad_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/XY/Desktop/C-coding/QT-projects/build-qt-notepad-Desktop_Qt_6_6_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/XY/Desktop/C-coding/QT-projects/qt-notepad"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

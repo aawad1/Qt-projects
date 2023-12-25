@@ -1,0 +1,28 @@
+{
+	"BUILD_DIR" : "C:/Users/XY/Desktop/C-coding/QT-projects/build-qt-notepad-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/qt-notepad_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/XY/Desktop/C-coding/QT-projects/build-qt-notepad-Desktop_Qt_6_6_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/XY/Desktop/C-coding/QT-projects/build-qt-notepad-Desktop_Qt_6_6_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/XY/Desktop/C-coding/QT-projects/qt-notepad",
+	"CMAKE_SOURCE_DIR" : "C:/Users/XY/Desktop/C-coding/QT-projects/qt-notepad",
+	"INCLUDE_DIR" : "C:/Users/XY/Desktop/C-coding/QT-projects/build-qt-notepad-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/qt-notepad_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/XY/Desktop/C-coding/QT-projects/qt-notepad/Icons/Icons/Paste.bmp",
+		"C:/Users/XY/Desktop/C-coding/QT-projects/qt-notepad/Icons/Icons/Open.bmp",
+		"C:/Users/XY/Desktop/C-coding/QT-projects/qt-notepad/Icons/Icons/Save.bmp",
+		"C:/Users/XY/Desktop/C-coding/QT-projects/qt-notepad/Icons/Icons/New.bmp",
+		"C:/Users/XY/Desktop/C-coding/QT-projects/qt-notepad/Icons/Icons/Cut.bmp",
+		"C:/Users/XY/Desktop/C-coding/QT-projects/qt-notepad/Icons/Icons/DeleteSticky.bmp",
+		"C:/Users/XY/Desktop/C-coding/QT-projects/qt-notepad/Icons/Icons/Copy.bmp"
+	],
+	"LOCK_FILE" : "C:/Users/XY/Desktop/C-coding/QT-projects/build-qt-notepad-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/qt-notepad_autogen.dir/AutoRcc_Resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "Resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_Resources.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.6.1/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/XY/Desktop/C-coding/QT-projects/build-qt-notepad-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/qt-notepad_autogen.dir/AutoRcc_Resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/XY/Desktop/C-coding/QT-projects/qt-notepad/Resources.qrc",
+	"VERBOSITY" : 0
+}
