@@ -14,10 +14,17 @@ class MainWindow : public QMainWindow
     Q_OBJECT
 
 public:
-    MainWindow(QWidget *parent = nullptr);
+    explicit MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
 
 private:
     Ui::MainWindow *ui;
+
+private slots:
+    void NumPressed();
+    void MathButtonPressed();
+    void EqualButton();
+    //void PointButon();
+    void ACButton();
 };
 #endif // MAINWINDOW_H
